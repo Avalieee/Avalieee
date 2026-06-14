@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Avaliee 👋
 
-<!--
-**Avalieee/Avalieee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### About Me
+I’m a **third-year student** in software design and development, driven by a simple belief :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+**I love** turning imagination into reality, **that’s why I code !**
+
+---
+
+-  **I am currently looking for a work-study program in software development !**
+
+---
+
+### Fun fact: 
+
+- I have four cats 
+  
